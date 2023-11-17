@@ -1,0 +1,8 @@
+.display {
+}
+
+.btn-group {
+  width: 100px;
+  display: flex;
+  flex-wrap: wrap;
+}
